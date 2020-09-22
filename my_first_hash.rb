@@ -47,7 +47,7 @@ def adding
 
   # return the shipping_manifest hash below
   
-  adding["shipping_manifest"]
+  
   
 end
 
